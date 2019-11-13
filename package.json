@@ -1,0 +1,11 @@
+{
+  "name": "u2ube",
+  "version": "1.0.0",
+  "description": "cloning",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "nico",
+  "license": "ISC"
+}
